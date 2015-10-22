@@ -1,6 +1,6 @@
 Package.describe({
   name: '4commerce:blaze-as-react',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'Use your Blaze templates as React components.',
   git: 'https://github.com/4commerce-technologies-AG/meteor-package-blaze-as-react',
   documentation: 'README.md'
