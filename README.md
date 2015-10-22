@@ -90,6 +90,14 @@ When you add this package, follwing dependencies will load:
 
 <br/>
 
+### Related links
+
+1. Meteor Forum: [Smoothly feature up your Blaze Apps with React Components](https://forums.meteor.com/t/smoothly-feature-up-your-blaze-apps-with-react-components/11960)
+2. Read the docs: [React in Meteor](https://react-in-meteor.readthedocs.org/en/latest/)
+3. Meteor on github: [React packages](https://github.com/meteor/react-packages/tree/devel/packages) 
+
+<br/>
+
 ### Issues & help
 
 In case of support or error please report your issue request. The issue tracker is available at: https://github.com/4commerce-technologies-AG/meteor-package-blaze-as-react/issues
